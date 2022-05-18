@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-18T14:37:41 IST" name="Default suite" finished-at="2022-05-18T14:37:41 IST" duration-ms="71">
+    <groups>
+    </groups>
+    <test started-at="2022-05-18T14:37:41 IST" name="Default test" finished-at="2022-05-18T14:37:41 IST" duration-ms="71">
+      <class name="testproject.movieinfovalidation">
+        <test-method signature="countrytest()[pri:1, instance:testproject.movieinfovalidation@6b26e945]" started-at="2022-05-18T14:37:41 IST" name="countrytest" finished-at="2022-05-18T14:37:41 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countrytest -->
+        <test-method signature="releasedatetest()[pri:2, instance:testproject.movieinfovalidation@6b26e945]" started-at="2022-05-18T14:37:41 IST" name="releasedatetest" finished-at="2022-05-18T14:37:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- releasedatetest -->
+      </class> <!-- testproject.movieinfovalidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
